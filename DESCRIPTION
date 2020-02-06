@@ -1,0 +1,14 @@
+Package: GESTIA
+Type: Package
+Title: Calculation of GESTIA score
+Depends: R (>= 3.5.3)
+Imports: igraph
+Version: 1.0
+Date: 2020-02-06
+Author: Xu Chi
+Maintainer: Xu Chi <chix@big.ac.cn>
+Description: GEne Set Impact Analysis is a measurement of the upstream/downstream correlations of two pathways.
+License: afl-3.0
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2020-02-06 15:54:40 UTC; XuChi
